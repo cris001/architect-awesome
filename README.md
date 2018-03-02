@@ -1323,6 +1323,7 @@ servlet 3.0 异步特性可用于配置中心的客户端
 ## 框架
 
 * [《Netty原理剖析》](https://blog.csdn.net/excellentyuxiao/article/details/53390408)
+* [《Netty系列之Netty高性能之道》](http://www.infoq.com/cn/articles/netty-high-performance)
 	* Reactor 模式介绍。
 	* Netty 是 Reactor 模式的一种实现。
 
