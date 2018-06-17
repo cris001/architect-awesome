@@ -1855,7 +1855,8 @@ Java、Srping、Dubbo 优雅关闭方式。
 
 * [《基于Zookeeper的服务注册与发现》](http://mobile.51cto.com/news-502394.htm)
 	* 优点：API简单、Pinterest，Airbnb 在用、多语言、通过watcher机制来实现配置PUSH，能快速响应配置变化。 
-
+* [《阿里巴巴为什么不用 ZooKeeper 做服务发现》](https://yq.aliyun.com/articles/599997)
+	
 ### 服务路由控制
 * [《分布式服务框架学习笔记4 服务路由》](https://blog.csdn.net/xundh/article/details/59492750)
 	* 原则：透明化路由
