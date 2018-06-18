@@ -1955,6 +1955,8 @@ Java、Srping、Dubbo 优雅关闭方式。
 
 # 设计思想 & 开发模式
 
+* [Java开发中的23种设计模式详解](https://www.cnblogs.com/wangzhongqiu/p/6245820.html)
+
 ## DDD(Domain-driven Design - 领域驱动设计)
 
 * [《浅谈我对DDD领域驱动设计的理解》](https://www.cnblogs.com/netfocus/p/5548025.html)
